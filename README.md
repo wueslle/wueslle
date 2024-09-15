@@ -30,10 +30,10 @@
 
 <p align="center">
     <a href="https://www.djangoproject.com/"><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a>
-    <a href="https://dev.w3.org/html5/html-author/"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
-    <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
-     <a href="https://reactjs.org//"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
-    <a href="https://laravel.com/"><img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></a>
+    <a href="https://www.tensorflow.org/?hl=pt-br"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
+    <a href="https://airflow.apache.org/"><img alt="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"></a>
+     <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi?msockid=044ae2a01090638c332ff64411496242"><img alt="PowerBI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"></a>
+    <a href="https://angular.dev/"><img alt="Angular" src="(https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
      <a href="https:python.org"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
     
 </p>
@@ -43,9 +43,9 @@
 <h3 align="center"> 🧠 Skills </h3>
 <h5 align="center">
 🎈 Advanced Photoshop 
-🎈 C1 English
+🎈 C2 English
 🎈 Native portuguese 
-🎈 Basic German </br>
+🎈 Basic Japanese </br>
 </h5>
 
 <br>
