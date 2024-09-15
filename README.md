@@ -1,19 +1,17 @@
 
 <h3 align="center">
-  <br> <img src="https://i.pinimg.com/originals/e6/7b/09/e67b0985c1c7daad19fd7a05ef4532b2.gif" width="200"> </br>
+  <br> <img src="https://24.media.tumblr.com/6962f401f98d9a3a40f5cc98ffe77cf3/tumblr_mhbudjMSsC1r840aso1_400.gif" width="200"> </br>
   Welcome to Wueslle Thibes's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Studying%20web%20and%20app%20development;Experience%20in%20Psychology%20;Always%20willing%20to%20learn%20new%20stuff;%20thx%20for%20visiting!&font=Fira%20Code&center=true&width=440&height=45&color=6fa8dc&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Science%20and%20Machine%20Learning;Experience%20in%20backend%20development%20and%20Neuropsychology%20;Always%20willing%20to%20learn%20new%20stuff;%20thx%20for%20visiting!&font=Fira%20Code&center=true&width=440&height=45&color=6fa8dc&vCenter=true&size=22"></a>
 </p>
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://twitter.com/tswueslle"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/GjwpjhF.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discordapp.com/users/268556669301030914u" alt="Contact me on discord"><img width="32px" src="https://i.imgur.com/vswd3TR.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/wueslle"><img width="32px" alt="Dev.to" title="Wueslle Dev.to" src="https://i.imgur.com/16cW5NL.png"></a>
@@ -31,7 +29,7 @@
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
 <p align="center">
-    <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
+    <a href="https://www.djangoproject.com/"><img alt="Django" (https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)"></a>
     <a href="https://dev.w3.org/html5/html-author/"><img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
     <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
      <a href="https://reactjs.org//"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
