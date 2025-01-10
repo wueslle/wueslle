@@ -7,7 +7,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Science%20and%20Machine%20Learning%20;Backend%20Developer;Always%20willing%20to%20learn%20new%20stuff;%20thx%20for%20visiting!&font=Fira%20Code&center=true&width=440&height=45&color=6fa8dc&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analysis%20and%20Data%20Science%20;Backend%20Developer;Always%20willing%20to%20learn%20new%20stuff;%20thx%20for%20visiting!&font=Fira%20Code&center=true&width=440&height=45&color=6fa8dc&vCenter=true&size=22"></a>
 </p>
 
 <!-- Social icons section -->
@@ -29,12 +29,12 @@
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
 <p align="center">
-    <a href="https://www.djangoproject.com/"><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a>
+    <a href="https:python.org"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
     <a href="https://www.tensorflow.org/?hl=pt-br"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
     <a href="https://airflow.apache.org/"><img alt="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"></a>
+     <a href="https://angular.dev/"><img alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"></a>
+  <a href="https://angular.dev/"><img alt="GCP" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
      <a href="https://www.microsoft.com/pt-br/power-platform/products/power-bi?msockid=044ae2a01090638c332ff64411496242"><img alt="PowerBI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"></a>
-    <a href="https://angular.dev/"><img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
-     <a href="https:python.org"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
     
 </p>
 
