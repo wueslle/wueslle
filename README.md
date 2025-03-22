@@ -22,7 +22,6 @@
    <a href="mailto:wuesllets@gmail.com"><img width="32px" alt="Reach me" title="Wueslle Email" src="https://i.imgur.com/KirvRXi.png"/></a> 
 </p>
 
-<img src="https://i0.wp.com/jornal.usp.br/wp-content/uploads/2019/04/Data-Science-Graphic-2.png?fit=8106%2C625&ssl=1">
 
 <h3 align="center"> 👨‍💻Now Learning </h3>
 
