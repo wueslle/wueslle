@@ -41,7 +41,8 @@
 
 <h3 align="center"> 🧠 Skills </h3>
 <h5 align="center">
-🎈 Advanced Photoshop 
+🎈 Advanced Python
+🎈 Advanced SQL
 🎈 C2 English
 🎈 Native portuguese 
 🎈 Basic Japanese </br>
